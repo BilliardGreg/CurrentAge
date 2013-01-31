@@ -1,7 +1,7 @@
 === Current Age Plugin ===
 Contributors: billiardgreg
 Donate link: http://www.billiardgreg.com/
-Tags: 
+Tags: dates, birthday, age, information, dynamic updating
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: trunk
