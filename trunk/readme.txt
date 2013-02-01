@@ -14,15 +14,13 @@ This plugin shows the current age based upon birthdate passed through shortcode 
 
 This plugin shows the current age based upon birthdate passed through shortcode ([showcurrentage month="1" day="1" year="2000"]) and dynamically updates based on current date.
 
-https://github.com/BilliardGreg/CurrentAge.git
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload the `CurrentAge` directory to the `/wp-content/plugins/` directory
+1. Upload the `current-age` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use [showcurrentage month="1" day="1" year="2000"] in content to show current age in number.
 
